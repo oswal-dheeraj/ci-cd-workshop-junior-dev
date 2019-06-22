@@ -19,5 +19,6 @@ workflows:
     jobs:
       - lint
       - test:
-        requires:
-          - lint
+          requires:
+            - lint
+
