@@ -5,5 +5,5 @@ module.exports = {
 };
 
 const getNameFromParam = () => {
-  return "Tom Riddle";
+  return "Voldemort";
 };
